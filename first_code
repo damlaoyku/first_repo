@@ -1,0 +1,5 @@
+num1 = 20
+num2 = 50 
+plus = num1 + num2 
+minus = num1 - num2
+print("plus =" ,plus ," ", "minus =" ,minus)  # yan yana printe siralanir
